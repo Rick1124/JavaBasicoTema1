@@ -10,6 +10,7 @@ public class Main {
         double variable6 = 6;
         char variable7 = 'a';
         String variable8 = "Hola";
+        boolean variable9 = false;
         System.out.println(variable1);
         System.out.println(variable2);
         System.out.println(variable3);
@@ -18,5 +19,6 @@ public class Main {
         System.out.println(variable6);
         System.out.println(variable7);
         System.out.println(variable8);
+        System.out.println(variable9);
     }
 }
